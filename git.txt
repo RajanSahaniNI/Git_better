@@ -1,7 +1,3 @@
 git version  // to check git is installed or not
 
-git config "global user
-
-git add filename.txt
-
-git add.
+My name is rajan
